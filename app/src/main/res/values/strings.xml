@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Skoop Mag</string>
+    <string name="website">www.skoopmag.skoophub.com</string>
+    <string name="wfu_text">We would be more than happy if you would like to sail with us on a great adventure ahead.</string>
+    <string name="mail">skoopmag@skoophub.com</string>
+    <string name="d">Divider</string>
+    <string name="fb">/skoopmag</string>
+    <string name="insta">/skoopmag</string>
+    <string name="wa">+91-9468686849</string>
+    <string name="tag">"Don't just read it, Feel it !"</string>
+    <string name="wfu">"We're Here. We'll Hear."</string>
+    <string name="cu">Contact Us:</string>
+    <string name="icon">icon</string>
+    <string name="twitter">/skoopmag</string>
+    <string name="info">Hey Skoopers, we welcome you to Skoop Mag ! We are a magazine website which tries to provide the best content around the world.</string>
+</resources>
